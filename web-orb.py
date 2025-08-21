@@ -105,7 +105,7 @@ class SpiderDNA:
             self.build_capture_spiral()
         else:
 		    fail_messages = [
-                "This webpage is not available",
+                "This web site is not available",
                 "I just realized that I'm afraid of heights.",
                 "Construction budget exceeded!",
                 "У цього місця погана енергетика.",
